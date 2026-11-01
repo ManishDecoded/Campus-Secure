@@ -1,0 +1,21 @@
+# Compiled Java files
+*.class
+/bin/
+/build/
+/target/
+
+# IDE and local workspace files
+.metadata/
+.settings/
+
+# Logs
+*.log
+
+# Environment and secret files
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
